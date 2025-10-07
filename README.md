@@ -1,3 +1,3 @@
 ## My projects
 
-* [Koło do losowania teleturniejów](matmal02.github.io/losu-losu-teleturniejow/)
+* [Koło do losowania teleturniejów](/losu-losu-teleturniejow/)
