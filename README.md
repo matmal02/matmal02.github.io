@@ -16,5 +16,5 @@ Credits:
   <p><a href="https://lukasworkshop.nekoweb.org/">Lukas ATBK</a> - Inspiration</p>
   <p><a href="https://www.spriters-resource.com/submitter/Random+Talking+Bush/">Random Talking Bush</a> - Ripped sprites</p>
   <p><a href="https://melonking.net/">MelonKing</a> - GifyPet</p>
-  <p>Graphics from <strong>Azumanga Daioh: Puzzle Bobble!</strong></p>
+  <p>Graphics from <strong>Azumanga Daioh: Puzzle Bobble!</strong> and <strong>Azumanga Donjara Daioh</strong></p>
 </ul>
